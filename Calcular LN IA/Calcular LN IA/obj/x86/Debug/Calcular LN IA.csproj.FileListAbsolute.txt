@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\Calcular LN IA\Calcular LN IA\bin\Debug\Calcular LN IA.exe
+C:\Users\Daniel\Desktop\Calcular LN IA\Calcular LN IA\bin\Debug\Calcular LN IA.pdb
+C:\Users\Daniel\Desktop\Calcular LN IA\Calcular LN IA\obj\x86\Debug\Calcular LN IA.exe
+C:\Users\Daniel\Desktop\Calcular LN IA\Calcular LN IA\obj\x86\Debug\Calcular LN IA.pdb
+C:\Users\Daniel\Desktop\Calcular LN IA\Calcular LN IA\obj\x86\Debug\Calcular LN IA.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Daniel\Calcular LN IA\Calcular LN IA\obj\x86\Debug\Calcular LN IA.exe
+C:\Users\Daniel\Desktop\Daniel\Calcular LN IA\Calcular LN IA\obj\x86\Debug\Calcular LN IA.pdb
+C:\Users\Daniel\Desktop\Daniel\Calcular LN IA\Calcular LN IA\bin\Debug\Calcular LN IA.exe
+C:\Users\Daniel\Desktop\Daniel\Calcular LN IA\Calcular LN IA\bin\Debug\Calcular LN IA.pdb
+C:\Users\Daniel\Desktop\Daniel\Calcular LN IA\Calcular LN IA\obj\x86\Debug\Calcular LN IA.csprojResolveAssemblyReference.cache
